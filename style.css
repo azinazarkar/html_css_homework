@@ -1,9 +1,10 @@
 body{
     width: 100%;
     height: 100%;
+    background-color: #52704c;
 }
 #page{
-    background-color: #52704c;
+    
     margin: 0px;
     padding: 0;
     float: left;
